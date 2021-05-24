@@ -33,10 +33,10 @@ function createData(name, username, email, website) {
 
 const useStyles = makeStyles({
     table: {
-        minWidth: 400,
+        minWidth: 300,
     },
 });
-
+//  какой нибудь комментарий
 export default class Components extends Component {
     constructor(props) {
         super(props);
