@@ -1,5 +1,4 @@
-import React, {Component} from 'react';
-import React_t from 'react';
+import React, {Component, PropTypes} from 'react';
 import { withStyles, makeStyles } from '@material-ui/core/styles';
 import Table from '@material-ui/core/Table';
 import TableBody from '@material-ui/core/TableBody';
