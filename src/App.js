@@ -36,7 +36,7 @@ const useStyles = makeStyles({
         minWidth: 300,
     },
 });
-//  какой нибудь комментарий
+//  какой нибудь комментарий измененный мной
 export default class Components extends Component {
     constructor(props) {
         super(props);
