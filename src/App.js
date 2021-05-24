@@ -33,7 +33,7 @@ function createData(name, username, email, website) {
 
 const useStyles = makeStyles({
     table: {
-        minWidth: 300,
+        minWidth: 400,
     },
 });
 //  главная ветка
