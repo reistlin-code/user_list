@@ -35,7 +35,6 @@ const useStyles = makeStyles({
         minWidth: 400,
     },
 });
-//  главная ветка
 export default class Components extends Component {
     constructor(props) {
         super(props);
